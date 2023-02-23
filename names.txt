@@ -1,2 +1,3 @@
 role, NetID, LastName, FirstName
 boss, baid2, Baid, Pranay
+employee, cmay5, May, Charlie
